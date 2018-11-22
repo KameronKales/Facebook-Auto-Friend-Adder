@@ -25,7 +25,6 @@
  * [Format Google Sheet](https://github.com/KameronKales/fb_auto_add#google-sheet-with-your-csv-data-in-it-no-headers)
  * [Twilio Set Up](https://github.com/KameronKales/fb_auto_add#twilio-account-and-api-key)
  * [Sendgrid Set Up](https://github.com/KameronKales/fb_auto_add#sendgrid-account-and-api-key)
- * [Variables Set Up](https://github.com/KameronKales/fb_auto_add#updated-variablesjson-with-your-secrets)
  * [Heroku Set Up](https://github.com/KameronKales/fb_auto_add#heroku-account)
  * [Github Set Up](https://github.com/KameronKales/fb_auto_add#github-account)
 
@@ -195,19 +194,6 @@ Sendgrid API:
 
 [Sendgrid API]: https://github.com/KameronKales/Facebook-Auto-Friend-Adder/blob/master/pictures/sendgrid_api.png "Sendgrid API"
 
-
-***
-
-## Updated variables.json With Your Secrets
-
-Plug Your Variables In Here:
-![alt text][Plug Your Variables In Here]
-
-[Plug Your Variables In Here]: https://github.com/KameronKales/Facebook-Auto-Friend-Adder/blob/master/pictures/variables.png "Plug Your Variables In Here"
-
-* You will plug all of your variables into the variables.json file.
-* This is NOT the most secure way to do it but it is the easiest across all different platforms.
-* This will become your mini database. Everything we've done so far is to get the variables to load into that file.
 
 ***
 
