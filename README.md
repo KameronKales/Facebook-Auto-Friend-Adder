@@ -269,13 +269,6 @@ Install Heroku On Your Computer:
 
 ***
 
-Connect Github:
-![alt text][Connect Github]
-
-[Connect Github]: https://github.com/KameronKales/Facebook-Auto-Friend-Adder/blob/master/pictures/connect_github.png "Connect Github"
-
-***
-
 ## Github Account
 
 * Navigate to [Github](http://github.com) to create an account.
