@@ -34,7 +34,6 @@
 ## General Requirements
 
  * This project will require light technical knowledge + free tooling
- * [Atom text editor](https://atom.io/)
  * [iTerm2](https://www.iterm2.com/)
  * Internet connection
  * Patience
@@ -56,7 +55,6 @@
  * Twilio API
  * Sendgrid API
  * Iterm2
- * Atom Text Editor
  * Heroku
  * Github
 
